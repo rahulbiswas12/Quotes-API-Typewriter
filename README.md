@@ -1,1 +1,0 @@
-# Quotes-API-Typewriter
